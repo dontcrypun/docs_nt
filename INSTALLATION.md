@@ -2,7 +2,7 @@
 
 🧰 Bước 1: Cài đặt môi trường
 ## 1.1. Cài Node.js phiên bản 10 (nên dùng nvm để dễ quản lý):
-
+ 
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 ```
